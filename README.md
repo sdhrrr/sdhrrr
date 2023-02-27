@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MySQL and C++**
 
-- 📫 How to reach me **sudheerjillellamudi123@gmail.com**
+- 📫 How to reach me **Discord: Rust.js#2332**
 
 - ⚡ Fun fact **Love Christopher Nolan's movies**
 
