@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudheer J</h1>
 <h3 align="center">A Front End and Data Science enthusiast from India.</h3>
 
-![snake gif](https://github.com/sdhrrr/sdhrrr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sdhrrr/sdhrrr/blob/output/github-contribution-grid-snake.svg)
 <!-- ![gitartwork](gitartwork.svg) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdhrrr&label=Profile%20views&color=0e75b6&style=flat" alt="sdhrrr" /> </p>
