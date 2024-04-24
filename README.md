@@ -17,7 +17,7 @@
 
 ```
 
-![snake gif](https://github.com/sdhrrr/sdhrrr/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/sdhrrr/sdhrrr/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ================== -->
 
@@ -25,7 +25,7 @@
 <h1>CONNECT WITH ME</h1>
 <p align="left">
 <a style="padding: 20px;" class="icon" href="https://www.linkedin.com/in/sudheer-j/" target="blank"><img align="center" src="Assets/Icons/linkedin.png" alt="https://www.linkedin.com/in/sudheer-j/" height="40" width="40" /></a>
-<a style="padding: 20px;" style class="icon" href="https://instagram.com/sdhrrr_" target="blank"><img align="center" src="Assets/Icons/instagram.png" alt="sdhrrr_" height="40" width="40" /></a>
+<!--<a style="padding: 20px;" style class="icon" href="https://instagram.com/sdhrrr_" target="blank"><img align="center" src="Assets/Icons/instagram.png" alt="sdhrrr_" height="40" width="40" /></a> -->
 <a style="padding: 20px;" class="icon" href="https://discord.gg/Rust.js#2332" target="blank"><img align="center" src="Assets/Icons/discord.png" alt="Rust.js#2332" height="40" width="40" /></a>
 <a style="padding: 20px;" class="icon" href="sudheerjillellamudi123@gmail.com" target="blank"><img align="center" src="Assets/Icons/mail.png" alt="mail me" height="40" width="40" /></a>
 </p> </br>
@@ -51,9 +51,11 @@
 
 
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdhrrr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sdhrrr&theme=dark)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sdhrrr&bg_color=141321&color=ffffff&line=ffffff&point=1eb8eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sdhrrr&bg_color=141321&color=ffffff&line=ffffff&point=1eb8eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+-->
 
